@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/dependency-injection/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-05-01T18:59:22+05:30</updated>
+  <id>http://localhost:4000/tag/dependency-injection/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Divyansh Dwivedi | </title>
+  
+
+  
+    <subtitle>Divyansh Dwivedi</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Dependency Injection &amp;amp; Why do we would need it ?</title>
+      <link href="http://localhost:4000/Dependency-Injection" rel="alternate" type="text/html" title="Dependency Injection &amp; Why do we would need it ?" />
+      <published>2020-05-01T15:48:00+05:30</published>
+      <updated>2020-05-01T15:48:00+05:30</updated>
+      <id>http://localhost:4000/Dependency-Injection</id>
+      <content type="html" xml:base="http://localhost:4000/Dependency-Injection">&lt;h1 id=&quot;dependency-injection&quot;&gt;Dependency Injection&lt;/h1&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Divyansh Dwivedi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="android," />
+      
+        <category term="java," />
+      
+        <category term="dagger2," />
+      
+        <category term="dependency-injection" />
+      
+
+      
+        <summary type="html">Dependency Injection</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
